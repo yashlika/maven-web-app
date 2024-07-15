@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='red'> BODEDDA FAMILY WELCOMES YOU -  KRIISHNA DISTRICT  VISHAKHAPATTNAM<font></h1>
+<h1><font color='red'> srinu babu gavara FAMILY WELCOMES YOU -  KRIISHNA DISTRICT  VISHAKHAPATTNAM<font></h1>
 
 <a href="https://ashokitech.com/online-training-schedules">Click Here To See Ashok IT Training Schedules</a>
   
